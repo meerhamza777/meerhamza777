@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meerhamza777/meerhamza777/main/banner.png" alt="Meer Hamza Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Meer Hamza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
